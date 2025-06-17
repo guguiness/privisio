@@ -5,10 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73011ee2-304f-4c59-a3d4-cb6aa75f85cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/detectors/placa_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Privisio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Privisio.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detectors/placa_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectors/placa_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.167622e4cafc00c4be561d4ca4238f9f.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.167622e4cafc00c4be561d4ca4238f9f.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.60025904a751a0cffe8f536e1906ab99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.60025904a751a0cffe8f536e1906ab99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.a31e0c45b2547c37c9757af1975cac2b.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.a31e0c45b2547c37c9757af1975cac2b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.c02f29eae16120a1c1ffec194a8651be.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.c02f29eae16120a1c1ffec194a8651be.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.cb1578c4adf8edb5a698f3bbffe1308f.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.cb1578c4adf8edb5a698f3bbffe1308f.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.d77f66d591c3caea63c05f7ab1d53730.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.d77f66d591c3caea63c05f7ab1d53730.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.e161e3b997c8074edc1dae697b144fc1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.e161e3b997c8074edc1dae697b144fc1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.e6a3bdbf15f788b8dc5625555a32cf6d.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.e6a3bdbf15f788b8dc5625555a32cf6d.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-4-Copia_jpeg.rf.e7b11915764a56cb132cac16a7c06f43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-4-Copia_jpeg.rf.e7b11915764a56cb132cac16a7c06f43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-5-Copia_jpeg.rf.23127213e51f9ab13baa80dde8b414cf.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-5-Copia_jpeg.rf.23127213e51f9ab13baa80dde8b414cf.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-5-Copia_jpeg.rf.b81cd12f6d69aa33ac77a53e8d091d31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-5-Copia_jpeg.rf.b81cd12f6d69aa33ac77a53e8d091d31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-5-Copia_jpeg.rf.bee9f0dec85eb92b4eb17b2f77880ca3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-5-Copia_jpeg.rf.bee9f0dec85eb92b4eb17b2f77880ca3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.0b816bcd07413f44bc2da599496dabe4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.0b816bcd07413f44bc2da599496dabe4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.0e2e72d3a1bf190490db3fed6d90f333.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.0e2e72d3a1bf190490db3fed6d90f333.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.4ffbe1f1dbc0b21b9116beee3c29ae7c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.4ffbe1f1dbc0b21b9116beee3c29ae7c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.545bf0e05020f4c322d378339f6794c0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.545bf0e05020f4c322d378339f6794c0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.859bbe279c0ce4455b05937f389fa4a7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.859bbe279c0ce4455b05937f389fa4a7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.8a32da8e6922c61cd211328b5d14ebb0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.8a32da8e6922c61cd211328b5d14ebb0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.8d5ab6c2ae8e080ed14ffcb3fe21a8bd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.8d5ab6c2ae8e080ed14ffcb3fe21a8bd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.d2e9c9367d876c2376ba51aa30de6f1c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.d2e9c9367d876c2376ba51aa30de6f1c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-7_jpg.rf.df8231bb3f776648889e1798429dd9d6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-7_jpg.rf.df8231bb3f776648889e1798429dd9d6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.04f41eb0ea75a99725b84176a14b7bd3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.04f41eb0ea75a99725b84176a14b7bd3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.235cfa594ca989e7dc5e390ce6a72629.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.235cfa594ca989e7dc5e390ce6a72629.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.523e5a39b5e00201622a1ed5da7fd2f5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.523e5a39b5e00201622a1ed5da7fd2f5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.62dd15425bdee7f86e7d9f8050328cf5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.62dd15425bdee7f86e7d9f8050328cf5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.6dc96094d0210660588e27229847b7a6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.6dc96094d0210660588e27229847b7a6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.9049ab3ac66beaf84b44894665e2aec2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.9049ab3ac66beaf84b44894665e2aec2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.b27320756091adf8f419a95594bf83c2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.b27320756091adf8f419a95594bf83c2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.e6938c019d9c91e88f7ae88012da1b6e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.e6938c019d9c91e88f7ae88012da1b6e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/images/0-8_jpg.rf.faa959ffe90c96ff074c84d00845a436.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/images/0-8_jpg.rf.faa959ffe90c96ff074c84d00845a436.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.167622e4cafc00c4be561d4ca4238f9f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.167622e4cafc00c4be561d4ca4238f9f.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.60025904a751a0cffe8f536e1906ab99.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.60025904a751a0cffe8f536e1906ab99.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.a31e0c45b2547c37c9757af1975cac2b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.a31e0c45b2547c37c9757af1975cac2b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.c02f29eae16120a1c1ffec194a8651be.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.c02f29eae16120a1c1ffec194a8651be.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.cb1578c4adf8edb5a698f3bbffe1308f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.cb1578c4adf8edb5a698f3bbffe1308f.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.d77f66d591c3caea63c05f7ab1d53730.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.d77f66d591c3caea63c05f7ab1d53730.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.e161e3b997c8074edc1dae697b144fc1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.e161e3b997c8074edc1dae697b144fc1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.e6a3bdbf15f788b8dc5625555a32cf6d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.e6a3bdbf15f788b8dc5625555a32cf6d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-4-Copia_jpeg.rf.e7b11915764a56cb132cac16a7c06f43.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-4-Copia_jpeg.rf.e7b11915764a56cb132cac16a7c06f43.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-5-Copia_jpeg.rf.23127213e51f9ab13baa80dde8b414cf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-5-Copia_jpeg.rf.23127213e51f9ab13baa80dde8b414cf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-5-Copia_jpeg.rf.b81cd12f6d69aa33ac77a53e8d091d31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-5-Copia_jpeg.rf.b81cd12f6d69aa33ac77a53e8d091d31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-5-Copia_jpeg.rf.bee9f0dec85eb92b4eb17b2f77880ca3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-5-Copia_jpeg.rf.bee9f0dec85eb92b4eb17b2f77880ca3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.0b816bcd07413f44bc2da599496dabe4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.0b816bcd07413f44bc2da599496dabe4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.0e2e72d3a1bf190490db3fed6d90f333.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.0e2e72d3a1bf190490db3fed6d90f333.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.4ffbe1f1dbc0b21b9116beee3c29ae7c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.4ffbe1f1dbc0b21b9116beee3c29ae7c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.545bf0e05020f4c322d378339f6794c0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.545bf0e05020f4c322d378339f6794c0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.859bbe279c0ce4455b05937f389fa4a7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.859bbe279c0ce4455b05937f389fa4a7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.8a32da8e6922c61cd211328b5d14ebb0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.8a32da8e6922c61cd211328b5d14ebb0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.8d5ab6c2ae8e080ed14ffcb3fe21a8bd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.8d5ab6c2ae8e080ed14ffcb3fe21a8bd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.d2e9c9367d876c2376ba51aa30de6f1c.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.d2e9c9367d876c2376ba51aa30de6f1c.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-7_jpg.rf.df8231bb3f776648889e1798429dd9d6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-7_jpg.rf.df8231bb3f776648889e1798429dd9d6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.04f41eb0ea75a99725b84176a14b7bd3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.04f41eb0ea75a99725b84176a14b7bd3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.235cfa594ca989e7dc5e390ce6a72629.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.235cfa594ca989e7dc5e390ce6a72629.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.523e5a39b5e00201622a1ed5da7fd2f5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.523e5a39b5e00201622a1ed5da7fd2f5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.62dd15425bdee7f86e7d9f8050328cf5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.62dd15425bdee7f86e7d9f8050328cf5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.6dc96094d0210660588e27229847b7a6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.6dc96094d0210660588e27229847b7a6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.9049ab3ac66beaf84b44894665e2aec2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.9049ab3ac66beaf84b44894665e2aec2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.b27320756091adf8f419a95594bf83c2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.b27320756091adf8f419a95594bf83c2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.e6938c019d9c91e88f7ae88012da1b6e.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.e6938c019d9c91e88f7ae88012da1b6e.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/placas_dataset/train/labels/0-8_jpg.rf.faa959ffe90c96ff074c84d00845a436.txt" beforeDir="false" afterPath="$PROJECT_DIR$/models/placas_dataset/valid/labels/0-8_jpg.rf.faa959ffe90c96ff074c84d00845a436.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +83,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ybwhwFbDo4V1eMaKPQgtO8R8US" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -39,6 +97,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.separacao_dataset.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -55,8 +115,64 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\Projetos\ProjetoFinalPDI\Privisio\models\placas_dataset\valid\labels" />
+      <recent name="J:\Projetos\ProjetoFinalPDI\Privisio\models\placas_dataset\valid\images" />
       <recent name="J:\Projetos\ProjetoFinalPDI\Privisio\models" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.separacao_dataset">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Privisio" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="separacao_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Privisio" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/separacao_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.separacao_dataset" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -73,11 +189,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1750116703827</updated>
-      <workItem from="1750116704941" duration="1963000" />
+      <workItem from="1750116704941" duration="8196000" />
+      <workItem from="1750154013327" duration="2128000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Privisio$separacao_dataset.coverage" NAME="separacao_dataset Coverage Results" MODIFIED="1750156240989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/Privisio$main.coverage" NAME="main Coverage Results" MODIFIED="1750154316501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
