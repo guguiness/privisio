@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 class PlacaDetector:
-    def __init__(self, model_path="runs/detect/train/weights/best.pt"):
+    def __init__(self, model_path="runs/detect_2/train/weights/best.pt"):
         self.model = YOLO(model_path)
 
     def detectar(self, image):
