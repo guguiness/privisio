@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73011ee2-304f-4c59-a3d4-cb6aa75f85cc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/detectors/placa_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/detectors/placa_detector.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/F1_curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/F1_curve.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/PR_curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/PR_curve.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/P_curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/P_curve.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/R_curve.png" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/R_curve.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/args.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/args.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/confusion_matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/confusion_matrix.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/confusion_matrix_normalized.png" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/confusion_matrix_normalized.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/labels.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/labels.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/results.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/results.png" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/results.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/train_batch0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/train_batch0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/train_batch1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/train_batch1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/train_batch1640.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/train_batch1640.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/train_batch1641.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/train_batch1641.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/train_batch1642.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/train_batch1642.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/train_batch2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/train_batch2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/val_batch0_labels.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/val_batch0_labels.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/val_batch0_pred.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/val_batch0_pred.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/weights/best.pt" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/weights/best.pt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runs/detect/train/weights/last.pt" beforeDir="false" afterPath="$PROJECT_DIR$/runs/detect_1/train/weights/last.pt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/image_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/image_utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,26 +36,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.separacao_dataset.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;J:/Projetos/ProjetoFinalPDI/Privisio/runs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.separacao_dataset.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "J:/Projetos/ProjetoFinalPDI/Privisio/runs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="J:\Projetos\ProjetoFinalPDI\Privisio\runs" />
@@ -161,7 +140,7 @@
       <workItem from="1750116704941" duration="8196000" />
       <workItem from="1750154013327" duration="5952000" />
       <workItem from="1750174850532" duration="925000" />
-      <workItem from="1750197704025" duration="158000" />
+      <workItem from="1750197704025" duration="4803000" />
     </task>
     <servers />
   </component>
@@ -170,6 +149,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Privisio$separacao_dataset.coverage" NAME="separacao_dataset Coverage Results" MODIFIED="1750158351952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/Privisio$main.coverage" NAME="main Coverage Results" MODIFIED="1750197820480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Privisio$main.coverage" NAME="main Coverage Results" MODIFIED="1750202533411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
