@@ -30,8 +30,7 @@ venv\Scripts\activate
 
 ### 3. Instale as dependências
 ```bash
-python -m venv venv
-venv\Scripts\activate
+pip install -r requirements.txt
 ```
 ---
 
