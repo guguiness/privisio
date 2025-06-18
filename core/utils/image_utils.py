@@ -15,3 +15,10 @@ def borrar_nao_selecionados(image, detections, selecionados):
             blur = cv2.GaussianBlur(roi, (51, 51), 0)
             image[y1:y2, x1:x2] = blur
     return image
+
+def carregar_imagem(caminho):
+    image = cv2.imread(caminho)
+    if image is None:
+        raise FileNotFoundError()
+
+    return image
