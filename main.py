@@ -5,8 +5,7 @@ from core.utils.image_utils import desenhar_retangulos, borrar_nao_selecionados
 from ui.janela_principal import iniciar_ui
 
 def main_console():
-    # imagem_path = input("Digite o caminho da imagem: ")
-    imagem_path = "imagens/inputs/pessoas_1.jpg"
+    imagem_path = input("Digite o caminho da imagem: ")
     image = cv2.imread(imagem_path)
     if image is None:
         print("Imagem não encontrada.")

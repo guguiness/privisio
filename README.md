@@ -2,8 +2,6 @@
 
 Privisio é uma aplicação Python para **identificação e ocultação automática de informações sensíveis** (como **placas de carro** e **rostos**) em imagens. O usuário pode selecionar quais objetos manter visíveis e exportar uma versão da imagem com os demais borrados.
 
-💡 Interface com **Tkinter** (GUI simples), mas também suporta execução via console.
-
 ---
 
 ## ✅ Requisitos
@@ -30,39 +28,25 @@ venv\Scripts\activate
 
 ### 3. Instale as dependências
 ```bash
-python -m venv venv
-venv\Scripts\activate
+pip install -r requirements.txt
 ```
 ---
 
 ## 🖼️ Como Usar
 
-### Opção 1 - Executar com Interface Gráfica (Tkinter)
-
-#### 1. Execute o projeto
+### 1. Execute o projeto
 ```bash
 python main.py
 ```
 
-#### 2. Processar imagem
+### 2. Processar imagem
 
 - Clique em "Carregar imagem" para selecionar um arquivo .jpg.
+    - Obs.: A pasta ` privisio/imagens/inputs/` contém imagens para serem usadas de exemplo de forma rápida
 - Clique em "Analisar" para detectar placas e rostos na imagem carregada.
 - Marque os objetos que devem permanecer visíveis.
 - Clique em "Gerar resultado" para salvar a imagem borrada.
 - Use o botão "Refazer" para iniciar outra análise do zero.
-
-### Opção 2 - Executar no Console (modo texto)
-
-#### 1. No arquivo main.py, altere a última linha para:
-```bash
-main_console()
-```
-
-#### 2. Execute o projeto
-```bash
-python main.py
-```
 
 ---
 
