@@ -4,5 +4,4 @@
 *.log
 
 #Data
-imagens/inputs
-imagens/outputs
+imagens/outputs/*
