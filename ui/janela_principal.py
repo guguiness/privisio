@@ -40,7 +40,7 @@ class PrivisioApp:
         self.sidebar_frame = ttk.Frame(self.main_frame, width=300)
         self.sidebar_frame.pack(side=tk.RIGHT, fill=tk.Y, padx=(10, 0))
 
-        self.checkbox_container = ttk.LabelFrame(self.sidebar_frame, text="Objetos detectados")
+        self.checkbox_container = ttk.LabelFrame(self.sidebar_frame, text="Selecione os objetos que serão visíveis:")
         self.checkbox_container.pack(fill=tk.BOTH, expand=True, pady=5)
 
         # Botões de controle
