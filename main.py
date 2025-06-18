@@ -1,12 +1,12 @@
 import cv2
-from detectors.placa_detector import PlacaDetector
-from detectors.rosto_detector import RostoDetector
-from utils.image_utils import desenhar_retangulos, borrar_nao_selecionados
+from core.detectors.placa_detector import PlacaDetector
+from core.detectors.rosto_detector import RostoDetector
+from core.utils.image_utils import desenhar_retangulos, borrar_nao_selecionados
+from ui.janela_principal import iniciar_ui
 
-
-def main():
+def main_console():
     # imagem_path = input("Digite o caminho da imagem: ")
-    imagem_path = "inputs/pessoas_2.jpg"
+    imagem_path = "imagens/inputs/pessoas_1.jpg"
     image = cv2.imread(imagem_path)
     if image is None:
         print("Imagem não encontrada.")
@@ -55,7 +55,7 @@ def main():
         selecionados = []
 
     borrada = borrar_nao_selecionados(image.copy(), detections, selecionados)
-    output_path = "outputs/imagem_borrada.jpg"
+    output_path = "imagens/outputs/imagem_borrada.jpg"
     cv2.imwrite(output_path, borrada)
 
     print(f"\nImagem borrada salva como: {output_path}")
@@ -65,4 +65,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    iniciar_ui()
