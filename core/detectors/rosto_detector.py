@@ -1,7 +1,7 @@
 import cv2
 
 class RostoDetector:
-    def __init__(self, cascade_path='classifiers/haarcascade_frontalface_default.xml'):
+    def __init__(self, cascade_path='assets/classifiers/haarcascade_frontalface_default.xml'):
         self.face_cascade = cv2.CascadeClassifier()
         if not self.face_cascade.load(cv2.samples.findFile(cascade_path)):
             print('--(!) Erro ao carregar o classificador de rosto')
