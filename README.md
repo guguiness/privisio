@@ -46,6 +46,7 @@ python main.py
 #### 2. Processar imagem
 
 - Clique em "Carregar imagem" para selecionar um arquivo .jpg.
+    - Obs.: A pasta ` privisio/imagens/inputs/` contém imagens para serem usadas de exemplo de forma rápida
 - Clique em "Analisar" para detectar placas e rostos na imagem carregada.
 - Marque os objetos que devem permanecer visíveis.
 - Clique em "Gerar resultado" para salvar a imagem borrada.
