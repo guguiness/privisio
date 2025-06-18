@@ -1,6 +1,5 @@
 #Project
-workspace.xml
-tasks.xml
+.idea/workspace.xml
 .venv
 *.log
 
