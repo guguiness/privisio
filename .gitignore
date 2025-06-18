@@ -1,4 +1,8 @@
+#Project
+.idea/workspace.xml
 .venv
-.idea
-inputs
-outputs
+*.log
+
+#Data
+imagens/inputs
+imagens/outputs
