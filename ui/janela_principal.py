@@ -65,7 +65,7 @@ class PrivisioApp:
         self.btn_sair.pack(side=tk.RIGHT, padx=5)
 
     def carregar_imagem(self):
-        caminho = filedialog.askopenfilename(filetypes=[('Imagens', '*.jpg *.png *.jpeg')])
+        caminho = filedialog.askopenfilename(filetypes=[('Imagens', '*.jpg *.png *.jpeg')], initialdir=r"imagens\inputs")
         if not caminho:
             return
 
@@ -118,7 +118,7 @@ class PrivisioApp:
 
         self.mostrar_imagem(borrada)
 
-        caminho = filedialog.asksaveasfilename(defaultextension=".jpg", filetypes=[("JPEG", "*.jpg")])
+        caminho = filedialog.asksaveasfilename(defaultextension=".jpg", filetypes=[("JPEG", "*.jpg")], initialdir=r"imagens\outputs")
         if caminho:
             cv2.imwrite(caminho, borrada)
             messagebox.showinfo("Sucesso", f"Imagem salva em: {caminho}")
