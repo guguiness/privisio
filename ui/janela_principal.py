@@ -101,6 +101,10 @@ class PrivisioApp:
             messagebox.showerror("Erro na detecção", str(e))
             return
 
+        if not self.detections:
+            messagebox.showinfo("Objetos não detectados", "Nenhum objeto foi detectado na imagem fornecida. Utilize outra imagem.")
+            return
+
         img_com_caixas = desenhar_retangulos(img.copy(), self.detections)
         self.mostrar_imagem(img_com_caixas)
         self.btn_resultado['state'] = tk.NORMAL
