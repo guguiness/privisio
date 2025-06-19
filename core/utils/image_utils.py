@@ -2,10 +2,10 @@ import cv2
 
 def desenhar_retangulos(image, detections):
     for i, (tipo, x1, y1, x2, y2) in enumerate(detections):
-        cv2.rectangle(image, (x1, y1), (x2, y2), (0, 0, 255), 6)
-        label = f"{i}: {tipo}"
+        cv2.rectangle(image, (x1, y1), (x2, y2), (0, 0, 255), 3)
+        label = f"{i}: {tipo[0].upper()}"
         cv2.putText(image, label, (x1, y1 - 5),
-                    cv2.FONT_HERSHEY_SIMPLEX, 0.8, (0, 0, 255), 3)
+                    cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 0, 255), 2)
     return image
 
 def borrar_nao_selecionados(image, detections, selecionados):
